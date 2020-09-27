@@ -1,3 +1,5 @@
 ### Hi there, I'm Nick - aka [2Moons][website] 👋
 
+[![2Moons-jp github stats](https://github-readme-stats.vercel.app/api?username=2Moons-JP)](https://github.com/anuraghazra/github-readme-stats)
+
 [website]: https://basekeys.com
